@@ -1,0 +1,25 @@
+#working-area{
+    display: flex;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+}
+
+#resize-button{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#grid{
+    width: 500px;
+    height: 500px;
+    border-color: black;
+}
+
+.row{
+
+}
+
+.column{
+    
+}
